@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Create ads for renting apartaments
+> Create ads for renting apartaments. 
+> Project created using create-react-app.
 
 ## Install
 
